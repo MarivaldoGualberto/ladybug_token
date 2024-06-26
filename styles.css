@@ -104,7 +104,7 @@ img {
 }
 
 #generate {
-    background-color: white;
+    background-color: #ffffff;
     border: none;
     margin-top: 12px;
     padding: 10px 0px;
@@ -119,11 +119,12 @@ img {
 }
 
 #generate:hover {
-    background-color: #2727279d;
+    background-color: #272727af;
+    color: #ff3131;
 }
 
 #copy {
-    background-color: white;
+    background-color: #ffffff;
     border: none;
     margin-top: 12px;
     padding: 10px 0px;
@@ -140,8 +141,9 @@ img {
     gap: 2px;
 }
 
-#copy:hover {
-    background-color: #2727279d;
+#copy:hover{
+    background-color: #272727af;
+    color: #ff3131;
 }
 
 #img_copy{
